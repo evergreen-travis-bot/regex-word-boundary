@@ -1,5 +1,7 @@
 # create-word-boundary-regex
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Kikobeats/create-word-boundary-regex.svg)](https://greenkeeper.io/)
+
 <p align="center">
   <br>
   <img src="https://i.imgur.com/Mh13XWB.gif" alt="create-word-boundary-regex">
